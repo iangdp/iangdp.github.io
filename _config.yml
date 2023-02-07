@@ -22,9 +22,9 @@ author: Ian Di Pietro
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Williams College: "https://www.williams.edu/"
+    - Feed the Frontlines NYC: "https://www.feedthefrontlinesnyc.org/"
+  Author's LinkedIn: "https://www.linkedin.com/in/ian-di-pietro-714b4a196/"
 
 ################
 # --- Logo --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "iangdp.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

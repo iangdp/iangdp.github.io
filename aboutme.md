@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is the man, the myth, the legend Ian Di Pietro?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ian Di Pietro. I am a double History and Psychology Major at Williams College. I would describe myself as:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Impatient
+- Intellectual
+- Idiosyncratic 
+- Interesting
+- Impressive
 
-What else do you need?
+### Crazy Life Story 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You might not believe this, but as a child I contracted anthrax! Read up about it here: (https://abcnews.go.com/US/story?id=92279&page=1)

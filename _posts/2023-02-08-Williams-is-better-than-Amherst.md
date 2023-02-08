@@ -4,7 +4,7 @@ title: Williams Higher than Amherst in Recent US News and World Report College R
 subtitle: Source: US News and World Report
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/williams_guidelines_square18.jpg
 tags: [books, test]
 ---
 

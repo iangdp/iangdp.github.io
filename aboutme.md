@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who is the man, the myth, the legend Ian Di Pietro?
+subtitle: Who is Ian Di Pietro? He seems pretty cool...
 ---
 
 My name is Ian Di Pietro. I am a double History and Psychology Major at Williams College. I would describe myself as:

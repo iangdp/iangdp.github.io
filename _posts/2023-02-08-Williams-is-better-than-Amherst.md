@@ -14,16 +14,14 @@ Unsurprisingly, Williams College is #1 in the most recent edition of US News and
 
 Williams boasts a 7:1 student to faculty ratio and a robust financial aid program. Situated in the beautiful Berkshires of Western Massachussets, Williams should be at the top of the list for any high schooler interested in going to college. 
 
-## Here is a secondary heading
+## National Liberal Arts College Rankings
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Ranking | School |
+| :------ |:--- |
+| #1 | Williams | 
+| #2 | Amherst | 
+| #3 | Pomona | 
+| #4 | Swarthmore | 
 
 
 How about a yummy crepe?

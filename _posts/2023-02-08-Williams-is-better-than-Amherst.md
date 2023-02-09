@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Williams Higher than Amherst in Recent US News and World Report College Rankings
+title: Williams
 subtitle: Source: US News and World Report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

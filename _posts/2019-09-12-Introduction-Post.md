@@ -11,8 +11,8 @@ comments: true
 This post includes my name, my year, my majors, my sewing experience, my programming experience, what I hope to learn in this class, and one boring fact about me.
 
 | Name | Ian Di Pietro | 
-| :------ |:--- | :--- |
-| Majors | History | Psychology |
+| :------ |:--- | 
+| Majors | History & Psychology | 
 
 
 **Sewing Experience**

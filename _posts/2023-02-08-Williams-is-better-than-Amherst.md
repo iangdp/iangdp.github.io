@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Williams
+title: Williams Higher than Amherst in the Most Recent US News and World Report Rankings
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

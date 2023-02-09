@@ -51,11 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "igd2@williams.edu"
-# facebook: deanattali
- github: iangdp
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: c/daattali
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: deanattali
+  github: iangdp
+ # twitter: daattali
+ # patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,8 +87,8 @@ rss-description: This website is a virtual proof that I'm awesome
 ###########################
 
 # Select which social network share links to show in posts
- share-links-active:
- twitter: true
+share-links-active:
+  twitter: true
   facebook: true
   linkedin: true
   vk: false
@@ -125,14 +126,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FF0000"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#00FFFF"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-# footer-col: "#EAEAEA"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -141,7 +142,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/12292764123_1a67e9ef60_o.jpg"
+#footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

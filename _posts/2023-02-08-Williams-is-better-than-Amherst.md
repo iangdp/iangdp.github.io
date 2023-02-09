@@ -4,7 +4,7 @@ title: Williams Higher than Amherst in the Most Recent US News and World Report 
 subtitle: Source- US News and World Report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [1st post]
 comments: true
 ---
 

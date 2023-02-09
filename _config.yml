@@ -51,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "igd2@williams.edu"
-  facebook: deanattali
+  # facebook: deanattali
   github: iangdp
  # twitter: daattali
  # patreon: DeanAttali
@@ -128,7 +128,7 @@ navbar-var-length: false
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#87CEFA"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"

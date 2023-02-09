@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Williams Higher than Amherst in Recent US News and World Report College Rankings
+subtitle: Source: US News and World Report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Unsurprisingly, Williams College is #1 in the most recent edition of US News and World Report's rankings of liberal arts colleges. Arch rivals Amherst lag behind at #2.
 
-**Here is some bold text**
+**Why Williams?**
+
+Williams boasts a 7:1 student to faculty ratio and a robust financial aid program. Situated in the beautiful Berkshires of Western Massachussets, Williams should be at the top of the list for any high schooler interested in going to college. 
 
 ## Here is a secondary heading
 

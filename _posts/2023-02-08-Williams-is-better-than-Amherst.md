@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Williams
+title:  Williams
 subtitle: Source: US News and World Report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

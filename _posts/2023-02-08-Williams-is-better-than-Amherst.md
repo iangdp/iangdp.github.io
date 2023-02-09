@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Williams Higher than Amherst in the Most Recent US News and World Report Rankings
-subtitle: Each post also has a subtitle
+subtitle: Source- US News and World Report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]

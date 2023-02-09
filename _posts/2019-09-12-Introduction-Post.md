@@ -2,9 +2,7 @@
 layout: post
 title: Learn About Me 
 subtitle: Nice to Meet You! 
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [about me]
 comments: true
 ---
 

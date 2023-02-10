@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Why eTextiles
 subtitle: Why I Enrolled in Electronic Textiles...
 ---
 

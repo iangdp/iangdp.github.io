@@ -1,17 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who is Ian Di Pietro? He seems pretty cool...
+subtitle: Why I Enrolled in Electronic Textiles...
 ---
 
-My name is Ian Di Pietro. I am a double History and Psychology Major at Williams College. I would describe myself as:
-
-- Impatient
-- Intellectual
-- Idiosyncratic 
-- Interesting
-- Impressive
-
-### Crazy Life Story 
-
-You might not believe this, but as a child I contracted anthrax! Read up about it [here](https://abcnews.go.com/US/story?id=92279&page=1)
+Did you know that wearable technoligies have become more and more popular, and that this trend is expected to continue? As of 2022, there were more than 1.1 billion connected wearable devices worldwide (https://www.statista.com/statistics/487291/global-connected-wearable-devices/). Electronic textiles are fundamental for the development of wearable devices. I am taking this course because I want to learn the programming, sewing, and circuitry skills nevessary for the creation of wearable devices. I love wearable devices, and I think it would be really neat to make my own. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sweater Coding Assignment 
-subtitle: Nice to Meet You! 
+subtitle: Cool Coding Practice 
 tags: [CS 103 Assignments]
 comments: true
 ---
@@ -15,6 +15,7 @@ This programming deliverable was designed by Professor Howley to help us student
 
 **Output Screenshot**
 
+![output](assets/img/Screen Shot 2023-02-21 at 10.56.22 AM.png)
 
 **Tip for my past self**
 

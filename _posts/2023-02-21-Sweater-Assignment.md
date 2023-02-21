@@ -15,7 +15,7 @@ This programming deliverable was designed by Professor Howley to help us student
 
 **Output Screenshot**
 
-![output](assets/img/Screen Shot 2023-02-21 at 10.56.22 AM.png)
+![output](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-02-21%20at%2010.56.22%20AM.png?raw=true)
 
 **Tip for my past self**
 

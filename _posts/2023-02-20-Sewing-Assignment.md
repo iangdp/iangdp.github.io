@@ -17,5 +17,6 @@ This post includes a picture of the front and back of my sampler and a tip/hint 
 
 
 **Tip for my past self**
+
 Don't rush, particularly when you're starting a new stitch. Get it down then try to pick up the pace.
 

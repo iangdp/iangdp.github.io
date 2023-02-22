@@ -6,8 +6,9 @@ tags: [CS 103 Assignments]
 comments: true
 ---
 
-This post includes a picture of the front and back of my sampler and a tip/hint I would give to my past self to help them complete this deliverable.
+This post includes a picture of the front and back of my sampler and a tip/hint I would give to my past self to help them complete this deliverable. 
  
+ My two experimental stitches were chain stitch and whipped running stitch. Satin stitch was too difficult to do without an embroidery hoop so I will have to practice that at a later time!
 
 **Sampler Photos**
 

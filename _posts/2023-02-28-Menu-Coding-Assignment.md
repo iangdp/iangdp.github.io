@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plushy Coding Assignment 
+title: Menu Coding Assignment 
 subtitle: Cool Coding Practice 
 tags: [CS 103 Assignments]
 comments: true

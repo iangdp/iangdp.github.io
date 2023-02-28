@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menu Coding Assignment 
-subtitle: Cool Coding Practice 
+subtitle: Virtual Restaurant Menu! 
 tags: [CS 103 Assignments]
 comments: true
 ---

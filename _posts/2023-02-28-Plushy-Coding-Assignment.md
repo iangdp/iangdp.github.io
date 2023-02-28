@@ -18,4 +18,4 @@ This programming deliverable was designed by Professor Howley to help us student
 
 **Tip for my past self**
 
-Using proper indentations makes it so much easier to read yor code!
+Commenting makes it much easier to understand what your code does!

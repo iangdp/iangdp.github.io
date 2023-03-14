@@ -13,7 +13,7 @@ This program was designed to simulate different colored LEDS turning on in the p
 **Output Photo**
 
 Flashbulb 
-![flashbulb]()
+![flashbulb](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-13%20at%208.11.40%20PM.png?raw=true)
 
 Big Dipper
 ![bigdipper](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-13%20at%208.11.24%20PM.png?raw=true)

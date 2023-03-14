@@ -16,7 +16,7 @@ Flashbulb
 ![flashbulb]()
 
 Big Dipper
-![bigdipper]()
+![bigdipper](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-13%20at%208.11.24%20PM.png?raw=true)
 
 Synchronous
 ![synchronous]()

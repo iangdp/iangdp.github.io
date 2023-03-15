@@ -18,7 +18,7 @@ This program was designed to simulate different colored LEDS turning on in the p
 ![bigdipper](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-13%20at%208.11.24%20PM.png?raw=true)
 
 **Synchronous**
-![synchronous]()
+![synchronous](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-15%20at%202.58.45%20PM.png?raw=true)
 
 **Tip for my past self**
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fireflies Assignment 
+title: Separate Sparkles Assignment 
 subtitle: Practice with Arduno
 tags: [CS 103 Assignments]
 comments: true

@@ -8,7 +8,7 @@ comments: true
 
 This post includes a description of this assignment, a photo of my working sets of LEDS, and a tip/hint I would give to my past self while completing this deliverable. 
  
-This program was designed to simulate different colored LEDS turning on in the pattern of different fireflies. This assignment gave us practice coding in Arduino!  
+This program was designed to simulate different colored LEDS turning on in the pattern of different fireflies simultaneously. This assignment built on the last assignment where we made individual sets of LEDS turn on in the pattern of firerflies, but separately!  
 
 
 **Photo of LEDs Working Simultaneously**

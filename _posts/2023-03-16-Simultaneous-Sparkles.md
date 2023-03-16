@@ -12,7 +12,7 @@ This program was designed to simulate different colored LEDS turning on in the p
 
 
 **Photo of LEDs Working Simultaneously**
-![Sparkles]()
+![Sparkles](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-16%20at%204.28.02%20PM.png?raw=true)
 
 
 **Tip for my past self**

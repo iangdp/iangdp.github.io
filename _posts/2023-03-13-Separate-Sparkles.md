@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Separate Sparkles Assignment 
-subtitle: Practice with Arduno
+subtitle: Practice with Arduino
 tags: [CS 103 Assignments]
 comments: true
 ---

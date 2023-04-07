@@ -8,7 +8,7 @@ comments: true
 
 This post includes a description of this assignment, a photo of my working on-board RGB LED, and a tip/hint I would give to my past self while completing this deliverable. 
  
-This program was designed to make an RGB LED flash up with random colors whnever a button is pressed.  
+This program was designed to make an RGB LED flash up with random colors whenever a button is pressed.  
 
 
 **Photo of LED**

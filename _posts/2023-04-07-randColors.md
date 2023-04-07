@@ -12,7 +12,7 @@ This program was designed to make an RGB LED flash up with random colors whnever
 
 
 **Photo of LED**
-![RGB](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-03-16%20at%204.28.02%20PM.png?raw=true)
+![RGB](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/IMG_2267.jpeg?raw=true)
 
 
 **Tip for my past self**

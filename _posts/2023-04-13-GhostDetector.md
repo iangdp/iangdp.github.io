@@ -17,7 +17,7 @@ This program was designed to make red LEDs flash when temperature and light are 
 
 **Tip for my past self**
 
-Use comments to remind yourself what code means! 
+Use comments to remind yourself what your code means! 
 
 
 

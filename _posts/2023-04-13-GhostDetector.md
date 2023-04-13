@@ -12,7 +12,7 @@ This program was designed to make red LEDs flash when temperature and light are 
 
 
 **Photo of LED**
-![RGB](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/IMG_2267.jpeg?raw=true)
+![RGB](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-04-13%20at%2011.01.47%20AM.png?raw=true)
 
 
 **Tip for my past self**

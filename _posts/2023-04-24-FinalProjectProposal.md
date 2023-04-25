@@ -9,7 +9,7 @@ comments: true
 
 
 **Photo of Project Proposal Slide**
-![slide]()
+![slide](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Final%20Project%20Proposal.jpg?raw=true)
 
 
 

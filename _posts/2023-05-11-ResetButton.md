@@ -11,11 +11,15 @@ comments: true
 **Materials List**
 
 **Paper Prototype**
-
+![paper]()
 **Working Aligator Prototype**
-
+![gator]()
 **3 states of Project Working**
+![1]()
 
+![2]()
+
+![3]()
 
 **Resources Used**
 

@@ -6,18 +6,17 @@ tags: [final post]
 comments: true
 ---
 
-Unsurprisingly, Williams College is #1 in the most recent edition of US News and World Report's rankings of liberal arts colleges. Arch rivals Amherst lag behind at #2.
+**Project Title: The Reset Button**
 
-**Why Williams?**
+**Materials List**
 
-Williams boasts a 7:1 student to faculty ratio and a robust financial aid program. Situated in the beautiful Berkshires of Western Massachussets, Williams should be at the top of the list for any high schooler interested in going to college. 
+**Paper Prototype**
 
-## National Liberal Arts College Rankings
+**Working Aligator Prototype**
 
-| Ranking | School |
-| :------ |:--- |
-| #1 | Williams | 
-| #2 | Amherst | 
-| #3 | Pomona | 
-| #4 | Swarthmore | 
+**3 states of Project Working**
 
+
+**Resources Used**
+
+Thank you to professor Howely for the example code she has posted on Glow! I specifically relied on Pogil Arrays, Buzzer-Sound, and Temperature-Sensor.

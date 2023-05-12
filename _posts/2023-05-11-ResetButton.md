@@ -31,7 +31,7 @@ The idea of the reset button comes from my coach who always stresses that we res
 **Working Aligator Prototype**
 ![gator](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-05-11%20at%2010.29.13%20PM.png?raw=true)
 **3 states of Project Working**
-![1](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.09%20PM.png?raw=true)
+![1](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/ezgif.com-video-to-gif.gif?raw=true)
 
 ![2](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.24%20PM.png?raw=true)
 

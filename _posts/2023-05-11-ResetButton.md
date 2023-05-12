@@ -15,11 +15,11 @@ comments: true
 **Working Aligator Prototype**
 ![gator]()
 **3 states of Project Working**
-![1]()
+![1](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.09%20PM.png?raw=true)
 
-![2]()
+![2](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.24%20PM.png?raw=true)
 
-![3]()
+![3](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.34%20PM.png?raw=true)
 
 **Resources Used**
 

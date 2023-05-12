@@ -13,7 +13,7 @@ comments: true
 **Paper Prototype**
 ![paper]()
 **Working Aligator Prototype**
-![gator]()
+![gator](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-05-11%20at%2010.29.13%20PM.png?raw=true)
 **3 states of Project Working**
 ![1](https://github.com/iangdp/iangdp.github.io/blob/master/Screen%20Shot%202023-05-11%20at%2010.25.09%20PM.png?raw=true)
 

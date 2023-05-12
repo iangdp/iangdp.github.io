@@ -27,7 +27,7 @@ The idea of the reset button comes from my coach who always stresses that we res
 9. Portable Battery
 
 **Paper Prototype**
-![paper]()
+![paper](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Final%20Project%20Paper%20Prototype.png?raw=true)
 **Working Aligator Prototype**
 ![gator](https://github.com/iangdp/iangdp.github.io/blob/master/assets/img/Screen%20Shot%202023-05-11%20at%2010.29.13%20PM.png?raw=true)
 **3 states of Project Working**
